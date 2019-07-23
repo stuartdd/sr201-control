@@ -17,8 +17,6 @@ repositories {
 
 
 dependencies {
-    compile 'stuartdd:jsonxmltools:1.0'
-    compile "com.github.purejavacomm:purejavacomm:1.0.1.RELEASE"
     testCompile group: 'junit', name: 'junit', version: '4.10'
 }
 
